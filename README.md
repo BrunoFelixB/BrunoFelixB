@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bruno Félix
+### Hi there 👋 I'm Bruno Félix
 ##
 - 🌱 I’m currently learning React.js and PHP
 - ⚡ Fun fact: I'm in love with football
