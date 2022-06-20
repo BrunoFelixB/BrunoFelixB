@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bruno Félix
 ##
-- 🌱 I’m currently learning React.js and PHP
+- 🌱 I’m currently learning Python.
 - ⚡ Fun fact: I'm in love with football
 
 <div align="center">
