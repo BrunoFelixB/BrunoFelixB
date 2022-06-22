@@ -3,7 +3,7 @@
 
 I'm a Full Stack Developer, I have skills in developing applications with Javascript, Bootstrap, Node.js, Express.Js, MongoDB, React.Js among others.
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and AWS.
 - ⚡ Fun fact: I'm in love with football
 
 <div align="center">
