@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Bruno Félix
 ##
 
-I'm a Full Stack Developer, I have skills in developing applications with Javascript, Bootstrap, Node.js, Express.Js, MongoDB, React.Js among others.
+I'm a Full Stack Developer, I have skills in developing applications with Javascript, Bootstrap, Node.js, Express.Js, MongoDB, React.Js, Python, Flask among others.
 
-- 🌱 I’m currently learning Python and AWS.
+- 🌱 I’m currently learning React Native and AWS.
 - ⚡ Fun fact: I'm in love with football
 
 <div align="center">
