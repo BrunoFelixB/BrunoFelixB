@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bruno Félix
 ##
 
-I'm a passionate IT Analyst with a love for technology and experience in developing web applications using Node.js, React, Python, JavaScript, Flask, Express.js, AWS, and other technologies. Currently, I work at Cencosud as a software developer, where I have the opportunity to put my knowledge into practice and continuously strive to learn new technologies to improve my skills and contribute to the success of the company.
+I'm a passionate software developer with a love for technology and experience in developing web applications using Node.js, React, Python, JavaScript, Flask, Express.js, AWS, and other technologies. Currently, I work at Cencosud as a software developer, where I have the opportunity to put my knowledge into practice and continuously strive to learn new technologies to improve my skills and contribute to the success of the company.
 
 - 🌱 I’m currently learning React Native and Java.
 - ⚡ Fun fact: I'm in love with football
